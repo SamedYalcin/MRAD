@@ -12,8 +12,8 @@ You can find the masks in: https://drive.google.com/file/d/1UTR_P3sQ8xCOO_uytw5b
 # How to reconstruct
 * Extract the masks in to a folder.
 * Create another folder with the same structure and download the originals to that folder. This will be the source folder.
-* Create third folder with the smae structure. This will be the destination folder.
-* Enter the path in the code and run.
+* Create third folder with the same structure. This will be the destination folder.
+* Enter the paths in `reconstruct.py` and run.
 
 # How to open the URLs quickly
 * Download the `urls.txt` file.
