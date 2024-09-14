@@ -5,7 +5,7 @@ This is the repository for the datasets used in the BMVC RROW 2024 workshop pape
 The code in this repository is released under MIT license.
 
 We do not own and therefore share the images in the dataset. Instead, we share URLs to the original sources.
-Instead, we share masks that you can use to reconstruct the inpainted versions of the images, along with the reconstruction code.
+We also share masks that you can use to reconstruct the inpainted versions of the images, along with the reconstruction code.
 
 You can find the masks in: https://drive.google.com/file/d/1UTR_P3sQ8xCOO_uytw5bcmgYaGXsjUKA
 
