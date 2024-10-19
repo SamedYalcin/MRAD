@@ -1,6 +1,7 @@
 # MRAD (Maritime Reflection Analysis Dataset)
 
 This is the repository for the datasets used in the BMVC RROW 2024 workshop paper **Impact of Surface Reflections in Maritime Obstacle Detection**.
+See arXiv preprint here: https://arxiv.org/abs/2410.08713
 
 The code in this repository is released under MIT license.
 
