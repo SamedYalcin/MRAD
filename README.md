@@ -10,6 +10,8 @@ We also share masks that you can use to reconstruct the inpainted versions of th
 
 You can find the masks in: https://drive.google.com/file/d/1UTR_P3sQ8xCOO_uytw5bcmgYaGXsjUKA
 
+Links to images are in the `urls.txt` file.
+
 # How to reconstruct
 * Extract the masks in to a folder.
 * Create another folder with the same structure and download the originals to that folder. This will be the source folder.
