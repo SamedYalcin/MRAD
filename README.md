@@ -34,6 +34,7 @@ You can use the below BibTeX entry to cite our research if you find it useful.
     eprint={2410.08713},
     archivePrefix={arXiv},
     primaryClass={cs.CV},
-    url={https://arxiv.org/abs/2410.08713}, 
+    url={https://arxiv.org/abs/2410.08713},
+    note={Accepted at RROW2024 Workshop @ British Machine Vision Conference (BMVC) 2024, Proceedings forthcoming}
 }
 ```
